@@ -1,0 +1,13 @@
+Python is a powerful language used in Data Science
+Data Science involves statistics machine learning and visualization
+Libraries like NumPy Pandas Matplotlib and ScikitLearn make Python very useful
+Jupyter Notebook helps data scientists to experiment and analyze data easily
+Data cleaning and data preprocessing are very important steps
+Exploratory Data Analysis gives better understanding of datasets
+Machine learning models are trained to make predictions
+Artificial Intelligence and Deep Learning are advanced areas of study
+Python code is simple readable and efficient for big data tasks
+Practice of file handling in Python improves programming skills
+Data driven decisions depend on quality and amount of data
+Visualization tools in Python help communicate insights effectively
+hello wipro

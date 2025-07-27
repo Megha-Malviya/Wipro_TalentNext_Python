@@ -1,0 +1,15 @@
+Chocolate 50
+Biscuit 35
+Icecream 50
+Rice 100
+Chicken 250
+Milk 45
+Bread 40
+Butter 60
+Jam 55
+
+Perfume Free
+Soup Free
+Book Free
+
+Discount 150
